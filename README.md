@@ -25,7 +25,7 @@ Divirta-se!
 docker run --rm -it vilelalabs/fullcycle
 ```
 
-**Image Docker Hub**
+**Image Go Docker Hub**
 ```bash
 https://hub.docker.com/repository/docker/vilelalabs/fullcycle/general
 ```
