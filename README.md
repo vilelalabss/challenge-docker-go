@@ -20,27 +20,12 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 
 Divirta-se!
 
-**Build Image**
-```bash
-docker build -t vilelalabs/go .
-```
-
-**View Images**
-```bash
-docker images
-```
-
 **Run Container**
 ```bash
-docker run --rm -it -v $(pwd)/:/go/src/app vilelalabs/go bash
-```
-
-**Exec program**
-```bash
-go run .
+docker run --rm -it vilelalabs/fullcycle
 ```
 
 **Image Docker Hub**
 ```bash
-https://hub.docker.com/repository/docker/vilelalabs/go/general
+https://hub.docker.com/repository/docker/vilelalabs/fullcycle/general
 ```
